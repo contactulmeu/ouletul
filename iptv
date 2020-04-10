@@ -1,481 +1,171 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: 1 Music Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/2231
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: A7 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/24970
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Acasa Gold HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/29375
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Acasa HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/15265
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Actualitatea Tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/82214
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Acum TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/49658
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Agro TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2232
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Alfa & Omega TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/12020
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Alpha Media TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/6999
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AMC
-http://jessicatv.site:8080/scoffy/94c4179c1453/14854
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANIMAL PLANET FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9839
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2233
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 3 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2641
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena Comedy
-http://jessicatv.site:8080/scoffy/94c4179c1453/49657
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena Comedy Play
-http://jessicatv.site:8080/scoffy/94c4179c1453/23940
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANTENA COOK&PLAY
-http://jessicatv.site:8080/scoffy/94c4179c1453/66508
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena Monden
-http://jessicatv.site:8080/scoffy/94c4179c1453/49656
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANTENA STARS FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2227
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANTENNA 1
-http://jessicatv.site:8080/scoffy/94c4179c1453/39334
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANTENNA 3
-http://jessicatv.site:8080/scoffy/94c4179c1453/60697
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ANTENNA STARS
-http://jessicatv.site:8080/scoffy/94c4179c1453/39339
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ATV
-http://jessicatv.site:8080/scoffy/94c4179c1453/7000
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Auto Motor Sport HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/31470
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN Black HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/6157
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2234
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN Romania
-http://jessicatv.site:8080/scoffy/94c4179c1453/56755
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN SPIN
-http://jessicatv.site:8080/scoffy/94c4179c1453/9809
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN White HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2640
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN WITH
-http://jessicatv.site:8080/scoffy/94c4179c1453/83542
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: B1 Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/2228
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BBC EARTH FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19910
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bit TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/7001
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bollywood Classic
-http://jessicatv.site:8080/scoffy/94c4179c1453/67021
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bollywood Film
-http://jessicatv.site:8080/scoffy/94c4179c1453/83534
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bollywood Tv HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12021
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BOOMERANG
-http://jessicatv.site:8080/scoffy/94c4179c1453/5742
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BUCOVINA TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73446
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BUCURESTI TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73445
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BusuiocTV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73409
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Canal 33
-http://jessicatv.site:8080/scoffy/94c4179c1453/22404
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cartoon Network HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/5741
-#EXTINF:0 tvg-id="ZoneReality.ro" group-title="Channels",RO: CBS Reality
-http://jessicatv.site:8080/scoffy/94c4179c1453/9810
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: CINEMARATON FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/24974
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: CINEMAX 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/66449
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2236
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/73252
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax/Megamax
-http://jessicatv.site:8080/scoffy/94c4179c1453/2237
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: CINETHRONIX
-http://jessicatv.site:8080/scoffy/94c4179c1453/66463
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: CNN
-http://jessicatv.site:8080/scoffy/94c4179c1453/66472
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Comedy Central
-http://jessicatv.site:8080/scoffy/94c4179c1453/12023
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Comedy Est HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/37958
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: CREDO TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/12716
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Crime&Investigation
-http://jessicatv.site:8080/scoffy/94c4179c1453/73966
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Crime+ Investigation
-http://jessicatv.site:8080/scoffy/94c4179c1453/57964
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cromtel TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/7005
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Da Vinci
-http://jessicatv.site:8080/scoffy/94c4179c1453/24978
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DA VINCI LEARNING
-http://jessicatv.site:8080/scoffy/94c4179c1453/9811
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi
-http://jessicatv.site:8080/scoffy/94c4179c1453/90750
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI 24 Craiova
-http://jessicatv.site:8080/scoffy/94c4179c1453/37702
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI 24 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2637
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI 24 Galati
-http://jessicatv.site:8080/scoffy/94c4179c1453/16533
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI ANIMAL WORD
-http://jessicatv.site:8080/scoffy/94c4179c1453/90808
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi ANIMAL WORLD FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2238
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI FILM HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2239
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI LIFE FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2240
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/71457
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 1 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2241
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/71459
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 2 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2242
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 3 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/57067
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 3 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2243
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 4 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/57070
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI SPORT 4 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4219
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi World FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2244
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery Channel HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9814
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery Science FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12026
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery SHOWCASE FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/67018
-#EXTINF:0 tvg-id="DisneyChannel.ro" group-title="Channels",RO: Disney Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/4220
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Disney Jr
-http://jessicatv.site:8080/scoffy/94c4179c1453/2245
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIVA Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/9816
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DocuBox
-http://jessicatv.site:8080/scoffy/94c4179c1453/121127
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DTX HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/41558
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DUCK TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/45915
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: E! FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19925
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Elita TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/22406
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EPIC DRAMA FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19918
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ETNIC TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/71921
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ETNO HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2636
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EUROSPORT
-http://jessicatv.site:8080/scoffy/94c4179c1453/76026
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EUROSPORT 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4221
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EUROSPORT 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4222
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Extreme Sports Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/9818
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FASHION TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/24984
-#EXTINF:0 tvg-id="Favorit.ro" group-title="Channels",RO: Favorit Tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/12017
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FightBox HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9819
-#EXTINF:0 tvg-id="FilmCafe.ro" group-title="Channels",RO: Film Cafe
-http://jessicatv.site:8080/scoffy/94c4179c1453/4223
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FILM NOW FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9820
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FILMBOX
-http://jessicatv.site:8080/scoffy/94c4179c1453/67031
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Extra FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/67029
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Family
-http://jessicatv.site:8080/scoffy/94c4179c1453/9822
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox PLUS
-http://jessicatv.site:8080/scoffy/94c4179c1453/67034
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Premium
-http://jessicatv.site:8080/scoffy/94c4179c1453/9824
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Fine Living HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9825
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: First Music FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/73407
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Fishing
-http://jessicatv.site:8080/scoffy/94c4179c1453/69989
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Fishing & Hunting HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2247
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FISHING AND HUNTING
-http://jessicatv.site:8080/scoffy/94c4179c1453/37709
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Food Network HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19900
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: GurinelTV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73440
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: H!T Music
-http://jessicatv.site:8080/scoffy/94c4179c1453/9826
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HAPPY Channel FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4224
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 1 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/6154
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2248
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 3 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2225
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4225
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO RO 1
-http://jessicatv.site:8080/scoffy/94c4179c1453/55448
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO RO 2
-http://jessicatv.site:8080/scoffy/94c4179c1453/55440
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO RO 3
-http://jessicatv.site:8080/scoffy/94c4179c1453/55442
-#EXTINF:0 tvg-id="HBO.ro" group-title="Channels",RO: HBO Romania
-http://jessicatv.site:8080/scoffy/94c4179c1453/2226
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: History Channel FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2249
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HIT CH
-http://jessicatv.site:8080/scoffy/94c4179c1453/37714
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HIT Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/7008
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Hit Music Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/44030
-#EXTINF:0 tvg-id="HoraTV.ro" group-title="Channels",RO: Hora TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/19906
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Iasi TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/7009
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Iasi TV Life
-http://jessicatv.site:8080/scoffy/94c4179c1453/37717
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Impact TV Manele
-http://jessicatv.site:8080/scoffy/94c4179c1453/90770
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: INEDIT TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/24988
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Info HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/22408
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Inter Media Tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/7012
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Investigation Discovery FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9813
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: JimJam
-http://jessicatv.site:8080/scoffy/94c4179c1453/29404
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: KANAL D FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2224
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Kiss TV HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2634
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Kronehit TV FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/73412
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Plus FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4226
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: LOOK SPORT FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/5746
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2229
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MAGIC TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/66500
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MegaMax HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2230
-#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",RO: MINIMAX
-http://jessicatv.site:8080/scoffy/94c4179c1453/2250
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz Dance HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19914
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MOOZ FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/66488
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz Hits
-http://jessicatv.site:8080/scoffy/94c4179c1453/81097
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz RO!
-http://jessicatv.site:8080/scoffy/94c4179c1453/66489
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Dance
-http://jessicatv.site:8080/scoffy/94c4179c1453/9827
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Europe
-http://jessicatv.site:8080/scoffy/94c4179c1453/73410
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Hits
-http://jessicatv.site:8080/scoffy/94c4179c1453/29407
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Rocks
-http://jessicatv.site:8080/scoffy/94c4179c1453/29408
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Romania
-http://jessicatv.site:8080/scoffy/94c4179c1453/90840
-#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",RO: Music Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/6158
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MUSIC Channel RO HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/71933
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: N 24
-http://jessicatv.site:8080/scoffy/94c4179c1453/12029
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: N 24 PLUS
-http://jessicatv.site:8080/scoffy/94c4179c1453/66416
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NASUL TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73437
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NAT GEO FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2252
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NAT GEO WILD FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2253
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: National 24 Plus
-http://jessicatv.site:8080/scoffy/94c4179c1453/4227
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: National 24+
-http://jessicatv.site:8080/scoffy/94c4179c1453/54259
-#EXTINF:0 tvg-id="NationalTV.ro" group-title="Channels",RO: National TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2223
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nest TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/22409
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nest TV SV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73129
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nich Toons
-http://jessicatv.site:8080/scoffy/94c4179c1453/19924
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nick Junior
-http://jessicatv.site:8080/scoffy/94c4179c1453/9828
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NICK TOONS
-http://jessicatv.site:8080/scoffy/94c4179c1453/80634
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: nickelodeon HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4228
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PAPRIKA TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/5743
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Paramount Channel
-http://jessicatv.site:8080/scoffy/94c4179c1453/5744
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Popas TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73439
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRIMA TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2222
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/19915
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro Cinema HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/6150
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro Gold
-http://jessicatv.site:8080/scoffy/94c4179c1453/19913
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro TV Chisinau
-http://jessicatv.site:8080/scoffy/94c4179c1453/23942
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro TV FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/71431
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO TV HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4229
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro TV International
-http://jessicatv.site:8080/scoffy/94c4179c1453/19904
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro TV News
-http://jessicatv.site:8080/scoffy/94c4179c1453/23943
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO X FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/5748
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PROFIT TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73444
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ProTV Chisinau
-http://jessicatv.site:8080/scoffy/94c4179c1453/37720
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ProTV FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/54270
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ProTV News
-http://jessicatv.site:8080/scoffy/94c4179c1453/37721
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Publika TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/33425
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Rapsodia Tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/73438
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Realitatea HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/4230
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Realitatea Plus HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/7019
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ROCK TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/66486
-#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="Channels",RO: ROMANIA TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2631
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: SANGEORZ TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/73442
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Somax Tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/25001
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Speranta TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/7022
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sport Klub 1
-http://jessicatv.site:8080/scoffy/94c4179c1453/6160
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sport Klub 2
-http://jessicatv.site:8080/scoffy/94c4179c1453/6161
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Stirile ProTV
-http://jessicatv.site:8080/scoffy/94c4179c1453/66499
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sundance FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/67027
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TARAF HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2629
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M
-http://jessicatv.site:8080/scoffy/94c4179c1453/7024
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M Botosani
-http://jessicatv.site:8080/scoffy/94c4179c1453/73115
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M Iasi
-http://jessicatv.site:8080/scoffy/94c4179c1453/73127
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELE MOLDOVA PLUS
-http://jessicatv.site:8080/scoffy/94c4179c1453/66498
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12727
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 2 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12728
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 3 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12729
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 4 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12730
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELESTAR 1
-http://jessicatv.site:8080/scoffy/94c4179c1453/73441
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tezaur tv
-http://jessicatv.site:8080/scoffy/94c4179c1453/25004
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Timeless Drama Channel FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/73383
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TLC
-http://jessicatv.site:8080/scoffy/94c4179c1453/12030
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TNT HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2256
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Travel Channel FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9835
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Travel MIX FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/12725
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TRINITAS TV
-http://jessicatv.site:8080/scoffy/94c4179c1453/2257
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV 1000 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2258
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV Paprika
-http://jessicatv.site:8080/scoffy/94c4179c1453/4233
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV Plus Suceava
-http://jessicatv.site:8080/scoffy/94c4179c1453/90773
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV SUD EST
-http://jessicatv.site:8080/scoffy/94c4179c1453/66492
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV5 MONDE
-http://jessicatv.site:8080/scoffy/94c4179c1453/40594
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR 1 FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2221
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR 2 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2220
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR 3 HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9833
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Cluj
-http://jessicatv.site:8080/scoffy/94c4179c1453/22411
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Craiova
-http://jessicatv.site:8080/scoffy/94c4179c1453/49654
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/5751
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Iasi
-http://jessicatv.site:8080/scoffy/94c4179c1453/9832
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR International
-http://jessicatv.site:8080/scoffy/94c4179c1453/9831
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Timisoara
-http://jessicatv.site:8080/scoffy/94c4179c1453/22412
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVSat
-http://jessicatv.site:8080/scoffy/94c4179c1453/90771
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: UTV FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2219
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Valea Prahovei TV HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/54265
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VH1
-http://jessicatv.site:8080/scoffy/94c4179c1453/19911
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VH1 Classic
-http://jessicatv.site:8080/scoffy/94c4179c1453/29421
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Viasat Explore
-http://jessicatv.site:8080/scoffy/94c4179c1453/57539
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VIASAT EXPORER
-http://jessicatv.site:8080/scoffy/94c4179c1453/67219
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VIASAT History FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2259
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VIASAT HOSTORY
-http://jessicatv.site:8080/scoffy/94c4179c1453/39350
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VIASAT NATURE FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/71950
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Viasat Nature/History HD
-http://jessicatv.site:8080/scoffy/94c4179c1453/2260
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VP
-http://jessicatv.site:8080/scoffy/94c4179c1453/66497
-#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ZU TV FHD
-http://jessicatv.site:8080/scoffy/94c4179c1453/9829
+#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="Acasa.ro" group-title="Channels",Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Actualitatea TV
+http://46.214.146.46:81/tv4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
+http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF:0 tvg-id="CredoTV.ro" group-title="Channels",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="CredoTV.ro" group-title="Channels",Credo TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
+http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0 tvg-id="Erdelytv.hu" group-title="Channels",Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:0 tvg-id="ext" group-title="Channels",Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Info HD
+http://163.172.172.80:8080/hls/InfoHd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kaptial TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 tvg-id="MoozHD.ro" group-title="Channels",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 tvg-id="MoozHits.ro" group-title="Channels",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nasul TV
+https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEst TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",Pro TV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",Pro TV News
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0 tvg-id="Profit.ro" group-title="Channels",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio ZU
+https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
+#EXTINF:0 tvg-id="relitatea" group-title="Channels",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="Speranta.ro" group-title="Channels",Speranta TV
+http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
+#EXTINF:0 tvg-id="Speranta.ro" group-title="Channels",Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="TeleM.svn" group-title="Channels",Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
+http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
+http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVR3.ro" group-title="Channels",TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVRCluj.ro" group-title="Channels",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVRCraiova.ro" group-title="Channels",TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="TVRIasi.ro" group-title="Channels",TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:0 tvg-id="TVRMoldova.ro" group-title="Channels",TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVRTimisoara.ro" group-title="Channels",TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
