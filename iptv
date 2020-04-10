@@ -1,171 +1,611 @@
 #EXTM3U
-#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="Acasa.ro" group-title="Channels",Acasa TV
-http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Accent TV
-http://video.a-tv.md/hls/accent.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Regional
-http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0 tvg-id="CredoTV.ro" group-title="Channels",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0 tvg-id="CredoTV.ro" group-title="Channels",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://82.76.40.76/digi24edge/digi24.smil/.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi24
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:0 tvg-id="Erdelytv.hu" group-title="Channels",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:0 tvg-id="ext" group-title="Channels",Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 tvg-id="MoozHD.ro" group-title="Channels",MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 tvg-id="MoozHits.ro" group-title="Channels",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nasul TV
-https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:0 tvg-id="pro-tv" group-title="Channels",Pro TV
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",Pro TV News
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0 tvg-id="Profit.ro" group-title="Channels",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF:0 tvg-id="relitatea" group-title="Channels",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="Speranta.ro" group-title="Channels",Speranta TV
-http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
-#EXTINF:0 tvg-id="Speranta.ro" group-title="Channels",Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="TeleM.svn" group-title="Channels",Tele M
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
-http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
-http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
-#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVR3.ro" group-title="Channels",TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVRCluj.ro" group-title="Channels",TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVRCraiova.ro" group-title="Channels",TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="TVRIasi.ro" group-title="Channels",TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:0 tvg-id="TVRMoldova.ro" group-title="Channels",TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVRTimisoara.ro" group-title="Channels",TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:0 tvg-id="utv" group-title="Channels",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Publika TV
+http://212.8.252.59:88/mario/mario/6617
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:PRO TV ChiÈ™inÄƒu
+http://212.8.252.59:88/mario/mario/6616
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Primul Ã®n Moldova
+http://212.8.252.59:88/mario/mario/6615
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Moldova 2
+http://212.8.252.59:88/mario/mario/6614
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Moldova 1
+http://212.8.252.59:88/mario/mario/6613
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Drochia TV
+http://212.8.252.59:88/mario/mario/6612
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Canal Regional
+http://212.8.252.59:88/mario/mario/6611
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:BÄƒlÈ›i TV
+http://212.8.252.59:88/mario/mario/6610
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLD:Accent TV
+http://212.8.252.59:88/mario/mario/6609
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:PLOIESTI TV
+http://212.8.252.59:88/mario/mario/5868
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:ORIZONT TV
+http://212.8.252.59:88/mario/mario/5867
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:ACCENT TV
+http://212.8.252.59:88/mario/mario/2434
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Actualitatea TV
+http://212.8.252.59:88/mario/mario/2372
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Acum TV
+http://212.8.252.59:88/mario/mario/2373
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Alfa Media TV
+http://212.8.252.59:88/mario/mario/2374
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Alfa Omega TV
+http://212.8.252.59:88/mario/mario/2375
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Alpha Media TV
+http://212.8.252.59:88/mario/mario/2376
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Antena Comedy
+http://212.8.252.59:88/mario/mario/2377
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Antena Monden
+http://212.8.252.59:88/mario/mario/2378
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:ANTENA PLAY COMEDY
+http://212.8.252.59:88/mario/mario/2410
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Bit TV
+http://212.8.252.59:88/mario/mario/2380
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Bucovina TV
+http://212.8.252.59:88/mario/mario/2381
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:CANAL 33
+http://212.8.252.59:88/mario/mario/2414
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Canal Regional
+http://212.8.252.59:88/mario/mario/2436
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Credo TV
+http://212.8.252.59:88/mario/mario/2385
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Cromtel TV
+http://212.8.252.59:88/mario/mario/2448
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:ETNIC TV
+http://212.8.252.59:88/mario/mario/2418
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Iasi TV Life
+http://212.8.252.59:88/mario/mario/2386
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:IDA TV
+http://212.8.252.59:88/mario/mario/2449
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Infinit TV
+http://212.8.252.59:88/mario/mario/2424
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Info HD
+http://212.8.252.59:88/mario/mario/2387
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Intermedia TV
+http://212.8.252.59:88/mario/mario/2388
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Kaptial TV
+http://212.8.252.59:88/mario/mario/2389
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:NEst TV
+http://212.8.252.59:88/mario/mario/2391
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Noroc TV
+http://212.8.252.59:88/mario/mario/2419
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:NTV
+http://212.8.252.59:88/mario/mario/2456
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:NTV MD
+http://212.8.252.59:88/mario/mario/2432
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Pro TV CHISINAU
+http://212.8.252.59:88/mario/mario/2457
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:PRO TV MD
+http://212.8.252.59:88/mario/mario/2429
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Pro TV NEWS
+http://212.8.252.59:88/mario/mario/2392
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Profit.ro
+http://212.8.252.59:88/mario/mario/2393
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:PROTV NEWS
+http://212.8.252.59:88/mario/mario/2415
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Publika TV
+http://212.8.252.59:88/mario/mario/2438
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Somax TV
+http://212.8.252.59:88/mario/mario/2396
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Speranta TV
+http://212.8.252.59:88/mario/mario/2397
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:STV
+http://212.8.252.59:88/mario/mario/2451
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Tele M
+http://212.8.252.59:88/mario/mario/2459
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Tele Moldova Plus
+http://212.8.252.59:88/mario/mario/2446
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TeleM Iasi
+http://212.8.252.59:88/mario/mario/2447
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Telestar 1
+http://212.8.252.59:88/mario/mario/2428
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TEZAUR
+http://212.8.252.59:88/mario/mario/2417
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:Tezaur TV
+http://212.8.252.59:88/mario/mario/2398
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TV Cromtel
+http://212.8.252.59:88/mario/mario/2425
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TV Elita
+http://212.8.252.59:88/mario/mario/2460
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TV Kit
+http://212.8.252.59:88/mario/mario/2452
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TV Sat
+http://212.8.252.59:88/mario/mario/2427
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TV Sud Est
+http://212.8.252.59:88/mario/mario/2423
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVPlus Suceava
+http://212.8.252.59:88/mario/mario/2453
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR Cluj
+http://212.8.252.59:88/mario/mario/2400
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR Craiova
+http://212.8.252.59:88/mario/mario/2421
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR Iasi
+http://212.8.252.59:88/mario/mario/2420
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR MOLDOVA
+http://212.8.252.59:88/mario/mario/2408
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR Targu Mures
+http://212.8.252.59:88/mario/mario/2422
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:TVR Timisoara
+http://212.8.252.59:88/mario/mario/2402
+#EXTINF:0 tvg-id="ext" group-title="Channels",RE:VP
+http://212.8.252.59:88/mario/mario/2426
+#EXTINF:0 tvg-id="6TV.ro" group-title="Channels",6TV
+http://212.8.252.59:88/mario/mario/6554
+#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Channels",AUTOMOTO TV
+http://212.8.252.59:88/mario/mario/6553
+#EXTINF:0 tvg-id="ext" group-title="Channels",A7 TV HD
+http://212.8.252.59:88/mario/mario/4610
+#EXTINF:0 tvg-id="ext" group-title="Channels",1HD MUSIC TV
+http://212.8.252.59:88/mario/mario/6520
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 MUSIC TV HUNGARY
+http://212.8.252.59:88/mario/mario/6501
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://212.8.252.59:88/mario/mario/4665
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET FHD
+http://212.8.252.59:88/mario/mario/2278
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTENA 1 HD
+http://212.8.252.59:88/mario/mario/4890
+#EXTINF:0 tvg-id="Antena3.sp" group-title="Channels",ANTENA 3 HD
+http://212.8.252.59:88/mario/mario/2153
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTENA STARS FHD
+http://212.8.252.59:88/mario/mario/2155
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",AXN BLACK SD
+http://212.8.252.59:88/mario/mario/2192
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN FHD
+http://212.8.252.59:88/mario/mario/2191
+#EXTINF:0 tvg-id="axn" group-title="Channels",AXN SPIN SD
+http://212.8.252.59:88/mario/mario/2189
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE SD
+http://212.8.252.59:88/mario/mario/2188
+#EXTINF:0 tvg-id="Balkanika.svn" group-title="Channels",BALKANIKA HD
+http://212.8.252.59:88/mario/mario/6498
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEACH TV
+http://212.8.252.59:88/mario/mario/6635
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1 TV SD
+http://212.8.252.59:88/mario/mario/2277
+#EXTINF:0 tvg-id="bbc-world" group-title="Channels",BBC WORLD
+http://212.8.252.59:88/mario/mario/7530
+#EXTINF:0 tvg-id="Boomerang.ro" group-title="Channels",BOOMERANG RO
+http://212.8.252.59:88/mario/mario/7529
+#EXTINF:0 tvg-id="bollywood-hd" group-title="Channels",BOLLYWOOD HD
+http://212.8.252.59:88/mario/mario/7522
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG TV HD
+http://212.8.252.59:88/mario/mario/6556
+#EXTINF:0 tvg-id="bridge" group-title="Channels",BRIDGE TV
+http://212.8.252.59:88/mario/mario/7541
+#EXTINF:0 tvg-id="topsong" group-title="Channels",BRIDGE TV CLASSIC
+http://212.8.252.59:88/mario/mario/7542
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRIDGE TV HITS DANCE
+http://212.8.252.59:88/mario/mario/7544
+#EXTINF:0 tvg-id="bridge-hd" group-title="Channels",BRIDGE TV DELUXE HD
+http://212.8.252.59:88/mario/mario/7543
+#EXTINF:0 tvg-id="BucurestiTV.ro" group-title="Channels",BUCURESTI TV
+http://212.8.252.59:88/mario/mario/4651
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK SD
+http://212.8.252.59:88/mario/mario/2272
+#EXTINF:0 tvg-id="Cinemaraton.ro" group-title="Channels",CINEMARATON
+http://212.8.252.59:88/mario/mario/7466
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINETRONIX HD
+http://212.8.252.59:88/mario/mario/7523
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",CINEMAX HD
+http://212.8.252.59:88/mario/mario/2280
+#EXTINF:0 tvg-id="Cinemax2.cz" group-title="Channels",CINEMAX 2 HD
+http://212.8.252.59:88/mario/mario/2184
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Channels",CITY TV
+http://212.8.252.59:88/mario/mario/5076
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY EST
+http://212.8.252.59:88/mario/mario/7519
+#EXTINF:0 tvg-id="CMC.hr" group-title="Channels",CMC TV
+http://212.8.252.59:88/mario/mario/6558
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Channels",CGTN
+http://212.8.252.59:88/mario/mario/6557
+#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME & INVESTIGATIO RO
+http://212.8.252.59:88/mario/mario/7557
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",DA VINCI LEARNING SD
+http://212.8.252.59:88/mario/mario/2271
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIASPORA TV
+http://212.8.252.59:88/mario/mario/7515
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIASPORA MEDIA TV
+http://212.8.252.59:88/mario/mario/5073
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIASPORA TV - ROCHANNEL
+http://212.8.252.59:88/mario/mario/5887
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIBI TV
+http://212.8.252.59:88/mario/mario/7518
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",DIGI 24 FHD
+http://212.8.252.59:88/mario/mario/2165
+#EXTINF:0 tvg-id="DigiAnimalWorld.hu" group-title="Channels",DIGI ANIMAL WORLD HD
+http://212.8.252.59:88/mario/mario/2228
+#EXTINF:0 tvg-id="DigiLife.ro" group-title="Channels",DIGI LIFE FHD
+http://212.8.252.59:88/mario/mario/2227
+#EXTINF:0 tvg-id="DigiSport1.hu" group-title="Channels",DIGI SPORT 1 HD
+http://212.8.252.59:88/mario/mario/2196
+#EXTINF:0 tvg-id="DigiSport2.hu" group-title="Channels",DIGI SPORT 2 HD
+http://212.8.252.59:88/mario/mario/2195
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Channels",DIGI SPORT 3 HD
+http://212.8.252.59:88/mario/mario/2194
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI SPORT 4 HD
+http://212.8.252.59:88/mario/mario/2193
+#EXTINF:0 tvg-id="DigiWorld.hu" group-title="Channels",DIGI WORLD FHD
+http://212.8.252.59:88/mario/mario/2216
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY CHANNEL HD
+http://212.8.252.59:88/mario/mario/2214
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERY SCIENCE SD
+http://212.8.252.59:88/mario/mario/2213
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD ID Investigation
+http://212.8.252.59:88/mario/mario/4967
+#EXTINF:0 tvg-id="DisneyChannel.ro" group-title="Channels",DISNEY CHANNEL RO
+http://212.8.252.59:88/mario/mario/4893
+#EXTINF:0 tvg-id="DisneyJunior.ro" group-title="Channels",DISNEY JUNIOR RO
+http://212.8.252.59:88/mario/mario/4888
+#EXTINF:0 tvg-id="DeejayTV.it" group-title="Channels",DEEJAY TV
+http://212.8.252.59:88/mario/mario/5079
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIVA CHANNEL SD
+http://212.8.252.59:88/mario/mario/2268
+#EXTINF:0 tvg-id="dwelle" group-title="Channels",DW TV
+http://212.8.252.59:88/mario/mario/6657
+#EXTINF:0 tvg-id="E!.pl" group-title="Channels",E! ENTERTAINMENT HD
+http://212.8.252.59:88/mario/mario/2266
+#EXTINF:0 tvg-id="EtnoTV.ro" group-title="Channels",ETNO TV
+http://212.8.252.59:88/mario/mario/7526
+#EXTINF:0 tvg-id="ext" group-title="Channels",EU MUSICHD
+http://212.8.252.59:88/mario/mario/6521
+#EXTINF:0 tvg-id="ext" group-title="Channels",EURODANCE 90
+http://212.8.252.59:88/mario/mario/6466
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",EUROPA PLUS TV
+http://212.8.252.59:88/mario/mario/7149
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT 1 HD
+http://212.8.252.59:88/mario/mario/2262
+#EXTINF:0 tvg-id="esp2-hd" group-title="Channels",EUROSPORT 2 HD
+http://212.8.252.59:88/mario/mario/2261
+#EXTINF:0 tvg-id="epic-drama" group-title="Channels",Epic Drama HD
+http://212.8.252.59:88/mario/mario/4672
+#EXTINF:0 tvg-id="ExpoChannel.tr" group-title="Channels",EXPO CHANNEL
+http://212.8.252.59:88/mario/mario/6639
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Science Fiction FHD
+http://212.8.252.59:88/mario/mario/7603
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Las Fierbinti Sez. 16
+http://212.8.252.59:88/mario/mario/7606
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Kids
+http://212.8.252.59:88/mario/mario/7605
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO iUmor Full HD
+http://212.8.252.59:88/mario/mario/7608
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Insula Iubirii Sez. 5
+http://212.8.252.59:88/mario/mario/7613
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Horror 3 Full HD
+http://212.8.252.59:88/mario/mario/7599
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Horror 2 Full HD
+http://212.8.252.59:88/mario/mario/7600
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Horror 1 Full HD
+http://212.8.252.59:88/mario/mario/7598
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Filme Romanesti
+http://212.8.252.59:88/mario/mario/7612
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Filme Arte Martiale
+http://212.8.252.59:88/mario/mario/7604
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Drama Full HD
+http://212.8.252.59:88/mario/mario/7601
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Comedy 3 Full HD
+http://212.8.252.59:88/mario/mario/7593
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Comedy 2 Full HD
+http://212.8.252.59:88/mario/mario/7594
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Comedy 1 Full HD
+http://212.8.252.59:88/mario/mario/7592
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO CINEMA
+http://212.8.252.59:88/mario/mario/7611
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Bollywood
+http://212.8.252.59:88/mario/mario/7610
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Basme pt Copii
+http://212.8.252.59:88/mario/mario/7609
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Baieti De Oras
+http://212.8.252.59:88/mario/mario/7607
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Adventure Full HD
+http://212.8.252.59:88/mario/mario/7602
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Action 3 Full HD
+http://212.8.252.59:88/mario/mario/7597
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Action 2 Full HD
+http://212.8.252.59:88/mario/mario/7596
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVO Action 1 Full HD
+http://212.8.252.59:88/mario/mario/7595
+#EXTINF:0 tvg-id="Favorit.ro" group-title="Channels",FAVORIT TV
+http://212.8.252.59:88/mario/mario/5051
+#EXTINF:0 tvg-id="FilmCafe.hu" group-title="Channels",FILM CAFE SD
+http://212.8.252.59:88/mario/mario/2187
+#EXTINF:0 tvg-id="FilmNow.ro" group-title="Channels",FILM NOW
+http://212.8.252.59:88/mario/mario/4884
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FILM BOX
+http://212.8.252.59:88/mario/mario/7536
+#EXTINF:0 tvg-id="FilmBoxPlus.bg" group-title="Channels",FILM BOX PLUS
+http://212.8.252.59:88/mario/mario/7540
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM BOX EXTRA HD
+http://212.8.252.59:88/mario/mario/7539
+#EXTINF:0 tvg-id="FilmboxPremium.cz" group-title="Channels",FILMBOX PREMIUM
+http://212.8.252.59:88/mario/mario/7538
+#EXTINF:0 tvg-id="FishingandHunting.cz" group-title="Channels",FISHING AND HUNTING
+http://212.8.252.59:88/mario/mario/4887
+#EXTINF:0 tvg-id="ext" group-title="Channels",FM ITALIA TV
+http://212.8.252.59:88/mario/mario/6636
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOXMIX TV
+http://212.8.252.59:88/mario/mario/6563
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOR FUN TV
+http://212.8.252.59:88/mario/mario/6555
+#EXTINF:0 tvg-id="ext" group-title="Channels",GAGIU TV RO
+http://212.8.252.59:88/mario/mario/5891
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREEK MUSIC
+http://212.8.252.59:88/mario/mario/6491
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREEK MUSIC 2
+http://212.8.252.59:88/mario/mario/6492
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREEK MUSIC 3
+http://212.8.252.59:88/mario/mario/6493
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREEK MUSIC 4
+http://212.8.252.59:88/mario/mario/6494
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREEK MUSIC 5
+http://212.8.252.59:88/mario/mario/6495
+#EXTINF:0 tvg-id="ext" group-title="Channels",HAPPY CHANNEL HD
+http://212.8.252.59:88/mario/mario/2180
+#EXTINF:0 tvg-id="HopeChannel.de" group-title="Channels",HOPE CHANNEL
+http://212.8.252.59:88/mario/mario/6559
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO FHD
+http://212.8.252.59:88/mario/mario/6640
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 FHD
+http://212.8.252.59:88/mario/mario/6641
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 FHD
+http://212.8.252.59:88/mario/mario/6642
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY CHANNEL FHD
+http://212.8.252.59:88/mario/mario/2258
+#EXTINF:0 tvg-id="HitMusic.hu" group-title="Channels",HIT MUSIC
+http://212.8.252.59:88/mario/mario/7525
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV HD
+http://212.8.252.59:88/mario/mario/7521
+#EXTINF:0 tvg-id="ext" group-title="Channels",KRONEHIT HD
+http://212.8.252.59:88/mario/mario/6549
+#EXTINF:0 tvg-id="ext" group-title="Channels",INFO HD
+http://212.8.252.59:88/mario/mario/4609
+#EXTINF:0 tvg-id="ext" group-title="Channels",INFO WARS TV
+http://212.8.252.59:88/mario/mario/6560
+#EXTINF:0 tvg-id="impact" group-title="Channels",IMPACT TV
+http://212.8.252.59:88/mario/mario/4889
+#EXTINF:0 tvg-id="ext" group-title="Channels",JASMIN TV
+http://212.8.252.59:88/mario/mario/6653
+#EXTINF:0 tvg-id="ext" group-title="Channels",JIM JAM RO
+http://212.8.252.59:88/mario/mario/7464
+#EXTINF:0 tvg-id="jurnal" group-title="Channels",JURNAL TV HD
+http://212.8.252.59:88/mario/mario/7545
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",KANAL D FHD
+http://212.8.252.59:88/mario/mario/6633
+#EXTINF:0 tvg-id="KissTV.ro" group-title="Channels",KISS TV RO
+http://212.8.252.59:88/mario/mario/5050
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA90 FM TV
+http://212.8.252.59:88/mario/mario/6561
+#EXTINF:0 tvg-id="LookPlus.ro" group-title="Channels",LOOK PLUS HD
+http://212.8.252.59:88/mario/mario/2252
+#EXTINF:0 tvg-id="LookSport.ro" group-title="Channels",LOOK SPORT HD
+http://212.8.252.59:88/mario/mario/7465
+#EXTINF:0 tvg-id="LookSport3.ro" group-title="Channels",LOOK SPORT 3
+http://212.8.252.59:88/mario/mario/7556
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAGIC TV HD
+http://212.8.252.59:88/mario/mario/2249
+#EXTINF:0 tvg-id="Megamax.cz" group-title="Channels",MEGAMAX SD
+http://212.8.252.59:88/mario/mario/2247
+#EXTINF:0 tvg-id="MedikaTV.ro" group-title="Channels",MEDIKA TV
+http://212.8.252.59:88/mario/mario/7524
+#EXTINF:0 tvg-id="ext" group-title="Channels",MELODY CHANNEL
+http://212.8.252.59:88/mario/mario/5876
+#EXTINF:0 tvg-id="ext" group-title="Channels",MELODY MUSIC
+http://212.8.252.59:88/mario/mario/7554
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",MEZZO LIVE HD
+http://212.8.252.59:88/mario/mario/7546
+#EXTINF:0 tvg-id="Minimax.rs" group-title="Channels",MINIMAX SD
+http://212.8.252.59:88/mario/mario/2246
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC 4EVER
+http://212.8.252.59:88/mario/mario/6662
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2O TV MUSIC
+http://212.8.252.59:88/mario/mario/5081
+#EXTINF:0 tvg-id="ext" group-title="Channels",MM TV HD
+http://212.8.252.59:88/mario/mario/6545
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV DANCE RO
+http://212.8.252.59:88/mario/mario/5055
+#EXTINF:0 tvg-id="mtv-rocks" group-title="Channels",MTV ROCKS
+http://212.8.252.59:88/mario/mario/7547
+#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",MUSIC CHANNEL
+http://212.8.252.59:88/mario/mario/4894
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP HD
+http://212.8.252.59:88/mario/mario/5875
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX GOLD
+http://212.8.252.59:88/mario/mario/6528
+#EXTINF:0 tvg-id="NationalTV.ro" group-title="Channels",NATIONAL TV SD
+http://212.8.252.59:88/mario/mario/2241
+#EXTINF:0 tvg-id="National24plus.ro" group-title="Channels",NATIONAL 24 PLUS
+http://212.8.252.59:88/mario/mario/2172
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC FHD
+http://212.8.252.59:88/mario/mario/2208
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD RO FHD
+http://212.8.252.59:88/mario/mario/5082
+#EXTINF:0 tvg-id="ext" group-title="Channels",NASUL TV
+http://212.8.252.59:88/mario/mario/2390
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCN RO
+http://212.8.252.59:88/mario/mario/7528
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR SD
+http://212.8.252.59:88/mario/mario/2239
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON SD
+http://212.8.252.59:88/mario/mario/2238
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",NICKTOONS SD
+http://212.8.252.59:88/mario/mario/2237
+#EXTINF:0 tvg-id="1hdru" group-title="Channels",ONE BY HD
+http://212.8.252.59:88/mario/mario/5873
+#EXTINF:0 tvg-id="ext" group-title="Channels",OXIGENO TV
+http://212.8.252.59:88/mario/mario/6507
+#EXTINF:0 tvg-id="ext" group-title="Channels",OLYMPIC CHANNEL TV HD
+http://212.8.252.59:88/mario/mario/6637
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONE FM TV
+http://212.8.252.59:88/mario/mario/6562
+#EXTINF:0 tvg-id="ext" group-title="Channels",O!2 HD
+http://212.8.252.59:88/mario/mario/6658
+#EXTINF:0 tvg-id="o-tv" group-title="Channels",OTV MUSIC
+http://212.8.252.59:88/mario/mario/6516
+#EXTINF:0 tvg-id="ext" group-title="Channels",OTTO FM TV
+http://212.8.252.59:88/mario/mario/6518
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Western
+http://212.8.252.59:88/mario/mario/7617
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Thriller
+http://212.8.252.59:88/mario/mario/7620
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Stand-Up Comedy
+http://212.8.252.59:88/mario/mario/7627
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Sci-Fi
+http://212.8.252.59:88/mario/mario/7623
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Manele
+http://212.8.252.59:88/mario/mario/7624
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Kids
+http://212.8.252.59:88/mario/mario/7621
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Karate
+http://212.8.252.59:88/mario/mario/7625
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Horror
+http://212.8.252.59:88/mario/mario/7619
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Etno
+http://212.8.252.59:88/mario/mario/7626
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Comedy
+http://212.8.252.59:88/mario/mario/7616
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTV Booba Kids
+http://212.8.252.59:88/mario/mario/7628
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Bollywood
+http://212.8.252.59:88/mario/mario/7622
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Adventure
+http://212.8.252.59:88/mario/mario/7618
+#EXTINF:0 tvg-id="ext" group-title="Channels",OpenTv Action
+http://212.8.252.59:88/mario/mario/7615
+#EXTINF:0 tvg-id="ext" group-title="Channels",Open Tv Las Fierbinti
+http://212.8.252.59:88/mario/mario/7614
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARIS LIVE
+http://212.8.252.59:88/mario/mario/6503
+#EXTINF:0 tvg-id="paramount" group-title="Channels",PARAMOUNT CHANNEL SD
+http://212.8.252.59:88/mario/mario/2235
+#EXTINF:0 tvg-id="PrimaTV.hu" group-title="Channels",PRIMA TV SD
+http://212.8.252.59:88/mario/mario/2174
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO 2 FHD
+http://212.8.252.59:88/mario/mario/2161
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Cinema HD
+http://212.8.252.59:88/mario/mario/4653
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",PRO TV SD
+http://212.8.252.59:88/mario/mario/7591
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",PRO TV HD
+http://212.8.252.59:88/mario/mario/7463
+#EXTINF:0 tvg-id="ProTVInternational.ro" group-title="Channels",PRO TV INTERNATIONAL
+http://212.8.252.59:88/mario/mario/4597
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",PRO TV NEWS
+http://212.8.252.59:88/mario/mario/7517
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO GOLD
+http://212.8.252.59:88/mario/mario/4598
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO X FD
+http://212.8.252.59:88/mario/mario/2162
+#EXTINF:0 tvg-id="ext" group-title="Channels",PROFIT TV RO SD
+http://212.8.252.59:88/mario/mario/2234
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO ROMANIA 3 TV
+http://212.8.252.59:88/mario/mario/5874
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO RTL 102.5 TV
+http://212.8.252.59:88/mario/mario/6508
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO U TV
+http://212.8.252.59:88/mario/mario/6564
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO NUMBER ONE TV
+http://212.8.252.59:88/mario/mario/6513
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO CONTACT
+http://212.8.252.59:88/mario/mario/6514
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO CAPITAL TV
+http://212.8.252.59:88/mario/mario/6511
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO 538 TV
+http://212.8.252.59:88/mario/mario/6510
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO 51 TV
+http://212.8.252.59:88/mario/mario/6509
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Zeta TV
+http://212.8.252.59:88/mario/mario/6476
+#EXTINF:0 tvg-id="ext" group-title="Channels",RED BULL TV
+http://212.8.252.59:88/mario/mario/6663
+#EXTINF:0 tvg-id="ext" group-title="Channels",Reload Radio Music Power HD
+http://212.8.252.59:88/mario/mario/5889
+#EXTINF:0 tvg-id="ext" group-title="Channels",RITSA TV
+http://212.8.252.59:88/mario/mario/6551
+#EXTINF:0 tvg-id="retro" group-title="Channels",RETRO TV
+http://212.8.252.59:88/mario/mario/5072
+#EXTINF:0 tvg-id="relitatea" group-title="Channels",REALITATEA TV SD
+http://212.8.252.59:88/mario/mario/2173
+#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="Channels",ROMANIA TV SD
+http://212.8.252.59:88/mario/mario/2171
+#EXTINF:0 tvg-id="RockTV.it" group-title="Channels",ROCK TV
+http://212.8.252.59:88/mario/mario/7520
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAGO MUSIC
+http://212.8.252.59:88/mario/mario/6505
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER TV RO
+http://212.8.252.59:88/mario/mario/4655
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERYACHT TV
+http://212.8.252.59:88/mario/mario/6638
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPIRIT TV
+http://212.8.252.59:88/mario/mario/6565
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAFE TV
+http://212.8.252.59:88/mario/mario/6567
+#EXTINF:0 tvg-id="iconcerts_hd" group-title="Channels",STINGRAY ICONCERTS
+http://212.8.252.59:88/mario/mario/7555
+#EXTINF:0 tvg-id="TarafTV.ro" group-title="Channels",TARAF TV SD
+http://212.8.252.59:88/mario/mario/2231
+#EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Channels",The Weather Channel
+http://212.8.252.59:88/mario/mario/6474
+#EXTINF:0 tvg-id="TheShoppingChannel.ca" group-title="Channels",The Shopping Channel
+http://212.8.252.59:88/mario/mario/6475
+#EXTINF:0 tvg-id="ext" group-title="Channels",THIS IS BULGARIA HD
+http://212.8.252.59:88/mario/mario/6472
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEKOM SPORT 1 FHD
+http://212.8.252.59:88/mario/mario/2200
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEKOM SPORT 2 FHD
+http://212.8.252.59:88/mario/mario/2199
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEKOM SPORT 3 FHD
+http://212.8.252.59:88/mario/mario/2198
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEKOM SPORT 4 FHD
+http://212.8.252.59:88/mario/mario/2197
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE DROBETA
+http://212.8.252.59:88/mario/mario/4608
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tom & Jerry 24/7
+http://212.8.252.59:88/mario/mario/6471
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC SD
+http://212.8.252.59:88/mario/mario/2230
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
+http://212.8.252.59:88/mario/mario/2229
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",TRAVEL CHANNEL FHD
+http://212.8.252.59:88/mario/mario/2206
+#EXTINF:0 tvg-id="TravelChannel.ro" group-title="Channels",TRAVEL MIX SD
+http://212.8.252.59:88/mario/mario/2226
+#EXTINF:0 tvg-id="TrinitasTV.ro" group-title="Channels",TRINITAS RO
+http://212.8.252.59:88/mario/mario/7527
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV1000 SD
+http://212.8.252.59:88/mario/mario/2222
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR 1 SD
+http://212.8.252.59:88/mario/mario/2169
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",TVR 2 SD
+http://212.8.252.59:88/mario/mario/2168
+#EXTINF:0 tvg-id="TVR3.ro" group-title="Channels",TVR 3 SD
+http://212.8.252.59:88/mario/mario/2167
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR FHD
+http://212.8.252.59:88/mario/mario/2166
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",TRACE URBAN
+http://212.8.252.59:88/mario/mario/5063
+#EXTINF:0 tvg-id="TraceTropical.fr" group-title="Channels",TRACE TROPICAL
+http://212.8.252.59:88/mario/mario/5064
+#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Channels",TRACE MZIKI
+http://212.8.252.59:88/mario/mario/5067
+#EXTINF:0 tvg-id="TraceLatina.uk" group-title="Channels",TRACE LATINA
+http://212.8.252.59:88/mario/mario/5062
+#EXTINF:0 tvg-id="TraceKitoko.fr" group-title="Channels",TRACE KITOKO
+http://212.8.252.59:88/mario/mario/5066
+#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Channels",TRACE AFRICA
+http://212.8.252.59:88/mario/mario/5065
+#EXTINF:0 tvg-id="UTV.uk" group-title="Channels",UTV FHD
+http://212.8.252.59:88/mario/mario/2221
+#EXTINF:0 tvg-id="explorer-rus" group-title="Channels",VIASAT EXPLORE SD
+http://212.8.252.59:88/mario/mario/2204
+#EXTINF:0 tvg-id="history" group-title="Channels",VIASAT HISTORY SD
+http://212.8.252.59:88/mario/mario/2203
+#EXTINF:0 tvg-id="viasat-nature" group-title="Channels",VIASAT NATURE
+http://212.8.252.59:88/mario/mario/4604
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 EUROPE
+http://212.8.252.59:88/mario/mario/7549
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 CLASSIC
+http://212.8.252.59:88/mario/mario/7548
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZU TV FHD
+http://212.8.252.59:88/mario/mario/5057
+#EXTINF:0 tvg-id="ext" group-title="Channels",World Fashion Channel International
+http://212.8.252.59:88/mario/mario/6473
