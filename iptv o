@@ -1,256 +1,143 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",===== RO: ROMANIA =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57061
-#EXTINF:0 tvg-id="TVR1.ro" group-title="RO: ROMANIA",RO: TVR 1
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57062
-#EXTINF:0 tvg-id="TVR2.ro" group-title="RO: ROMANIA",RO: TVR 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57063
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TVR 3
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57064
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TVR HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57065
-#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="RO: ROMANIA",RO: ROMANIA TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57066
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: ANTENA 1
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57067
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: ANTENA 1 HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57068
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: ANTENA 3
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57069
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: ANTENA STARS
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57070
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: PRO TV HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57071
-#EXTINF:0 tvg-id="PROTV.ro" group-title="RO: ROMANIA",RO: PRO TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57072
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: PRO X
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57073
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: PRO 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57074
-#EXTINF:0 tvg-id="DigiWorld.ro" group-title="RO: ROMANIA",RO: DIGI WORLD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57075
-#EXTINF:0 tvg-id="DigiLife.ro" group-title="RO: ROMANIA",RO: DIGI LIFE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57076
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DIGI 24 HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57077
-#EXTINF:0 tvg-id="AXNCrime.ro" group-title="RO: ROMANIA",RO: AXN WHITE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57078
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: AXN ROMANIA
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57079
-#EXTINF:0 tvg-id="AXNSciFi.ro" group-title="RO: ROMANIA",RO: AXN BLACK
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57080
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: B1 TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57081
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DTX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57082
-#EXTINF:0 tvg-id="Favorit.ro" group-title="RO: ROMANIA",RO: FAVORIT TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57083
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: HAPPY CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57084
-#EXTINF:0 tvg-id="HBO.ro" group-title="RO: ROMANIA",RO: HBO Romania
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57085
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: HBO HD RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57086
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: HBO2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57087
-#EXTINF:0 tvg-id="HBOComedy.ro" group-title="RO: ROMANIA",RO: HBO 3 RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57088
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: HBO 3
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57089
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: E! ENTERTAINMENT
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57090
-#EXTINF:0 tvg-id="HoraTV.ro" group-title="RO: ROMANIA",RO: HORA TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57091
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: JIMJAM
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57092
-#EXTINF:0 tvg-id="KanalD.ro" group-title="RO: ROMANIA",RO: KANAL D
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57093
-#EXTINF:0 tvg-id="KissTV.ro" group-title="RO: ROMANIA",RO: KISS TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57094
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: LOOK PLUS HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57095
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: LOOKPLUS
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57096
-#EXTINF:0 tvg-id="NationalTV.ro" group-title="RO: ROMANIA",RO: NATIONAL TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57097
-#EXTINF:0 tvg-id="PrimaTV.ro" group-title="RO: ROMANIA",RO: PRIMA TV RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57098
-#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="RO: ROMANIA",RO: REALITATEA TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57099
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TARAF
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57100
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TNT RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57101
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: NGRO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57102
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: NATIONAL 24
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57103
-#EXTINF:0 tvg-id="FLN.ro" group-title="RO: ROMANIA",RO: FINE LIVING
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57104
-#EXTINF:0 tvg-id="EtnoTV.ro" group-title="RO: ROMANIA",RO: ETNO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57105
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DUNA HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57106
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DOCUBOX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57107
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DIVA
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57108
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: DAVINCI LEARNING
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57109
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TRAVEL CHANNEL HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57110
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: TV PAPRIKA
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57111
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: ZU TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57112
-#EXTINF:0 tvg-id="UTV.ro" group-title="RO: ROMANIA",RO: U TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57113
-#EXTINF:0 tvg-id="TV1000.ro" group-title="RO: ROMANIA",RO: TV 1000
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57114
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: SPERANTA TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57115
-#EXTINF:0 tvg-id="ext" group-title="RO: ROMANIA",RO: RTL LOUNGE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57116
-
-#EXTINF:0 tvg-id="ext" group-title="RO: KIDS",===== RO: KIDS =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57117
-#EXTINF:0 tvg-id="ext" group-title="RO: KIDS",RO: BOOMERANG
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57118
-#EXTINF:0 tvg-id="CartoonNetwork.ro" group-title="RO: KIDS",RO: CARTOON
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57119
-#EXTINF:0 tvg-id="ext" group-title="RO: KIDS",RO: CARTOON NETWORK
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57120
-#EXTINF:0 tvg-id="DisneyChannel.ro" group-title="RO: KIDS",RO: DISNEY CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57121
-#EXTINF:0 tvg-id="ext" group-title="RO: KIDS",RO: DISNEY JR
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57122
-#EXTINF:0 tvg-id="ext" group-title="RO: KIDS",RO: DISNEY RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57123
-#EXTINF:0 tvg-id="MiniMax.ro" group-title="RO: KIDS",RO: MINIMAX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57124
-
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",===== RO: CINEMA =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57125
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: CINEMAX 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57126
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="RO: CINEMA",RO: CINEMAX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57127
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: FILMBOX PREMIUM
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57128
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: FILMBOX EXTRA HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57129
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: FILMBOX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57130
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: FILM NOW
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57131
-#EXTINF:0 tvg-id="FilmCafe.ro" group-title="RO: CINEMA",RO: FILM CAFE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57132
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: PRO GOLD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57133
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: PRO CINEMA
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57134
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: MEGAMAX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57135
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: CINEMARATON
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57136
-#EXTINF:0 tvg-id="ZoneReality.ro" group-title="RO: CINEMA",RO: CBS REALITY
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57137
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: BOLLYWOOD TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57138
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: AMC
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57139
-#EXTINF:0 tvg-id="ext" group-title="RO: CINEMA",RO: AGRO TV
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57140
-
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",===== RO: DISCOVERY =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57141
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: NAT GEO GRAPHIC RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57142
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: NAT GEO WILD HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57143
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: NAT GEO GRAPHIC HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57144
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: INVESTIGATION DISCOVERY
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57145
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: DISCOVERY CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57146
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: DISCOVERY HD SHOWCASE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57147
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: DISCOVERY RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57148
-#EXTINF:0 tvg-id="DiscoveryScience.ro" group-title="RO: DISCOVERY",RO: DISCOVERY SCIENCE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57149
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: ANIMAL PLANET HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57150
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: ANIMAL PLANET
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57151
-#EXTINF:0 tvg-id="DIGIAnimalWorld.ro" group-title="RO: DISCOVERY",RO: DIGI ANIMAL WORLD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57152
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: VIASAT NATURE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57153
-#EXTINF:0 tvg-id="ViasatHistory.ro" group-title="RO: DISCOVERY",RO: VIASAT HISTORY
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57154
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: VIASAT EXPLORER
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57155
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: VIASAT EXPLORE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57156
-#EXTINF:0 tvg-id="HistoryHD.ro" group-title="RO: DISCOVERY",RO: HISTORY
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57157
-#EXTINF:0 tvg-id="ext" group-title="RO: DISCOVERY",RO: HISTORY HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57158
-#EXTINF:0 tvg-id="TravelChannel.ro" group-title="RO: DISCOVERY",RO: TRAVEL CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57159
-
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",===== RO: MUSIC =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57160
-#EXTINF:0 tvg-id="MusicChannel.ro" group-title="RO: MUSIC",RO: MUSIC CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57161
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: MTV ROCKS
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57162
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: MTV HITS
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57163
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: MTV EUROPE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57164
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: MTV DANCE
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57165
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: MOOZ DANCE HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57166
-#EXTINF:0 tvg-id="ext" group-title="RO: MUSIC",RO: VH1 CLASSIC
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57167
-
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",===== RO: SPORTS =====
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57168
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: DIGI SPORT 1 HD RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57169
-#EXTINF:0 tvg-id="DigiSport1.ro" group-title="RO: SPORTS",RO: DIGI SPORT 1
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57170
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: DIGI SPORT 2 HD RO
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57171
-#EXTINF:0 tvg-id="DigiSport2.ro" group-title="RO: SPORTS",RO: DIGI SPORT 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57172
-#EXTINF:0 tvg-id="DigiSport3.ro" group-title="RO: SPORTS",RO: DIGI SPORT 3
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57173
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: DIGI SPORT 4
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57174
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: EXTREME SPORTS CHANNEL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57175
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: EUROSPORT 1 HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57176
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: EUROSPORT 2 HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57177
-#EXTINF:0 tvg-id="Eurosport2.ro" group-title="RO: SPORTS",RO: EUROSPORT 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57178
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: ELEVENSPORTS 1
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57179
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: ELEVENSPORTS 2
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57180
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: PRO TV INTERNATIONAL
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57181
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: AUTO MOTOR SPORT
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57182
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: FIGHTBOX
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57183
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: LOOKSPORT
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57184
-#EXTINF:0 tvg-id="ext" group-title="RO: SPORTS",RO: LOOK SPORT HD
-http://stream.iptvesun.com:25461/ja0908y21/PjvH5GTFg4/57185
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",Ro: B1
+http://xxultraxx.com:80/uu123456/uu123456/2769
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",Ro: Tvr 1
+http://xxultraxx.com:80/uu123456/uu123456/2727
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",Ro: Tvr 2
+http://xxultraxx.com:80/uu123456/uu123456/2743
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Ro: Digi 24
+http://xxultraxx.com:80/uu123456/uu123456/2768
+#EXTINF:0 tvg-id="DigiLife.ro" group-title="Channels",Ro: Digi Life
+http://xxultraxx.com:80/uu123456/uu123456/2766
+#EXTINF:0 tvg-id="DigiWorld.ro" group-title="Channels",Ro: Digi World
+http://xxultraxx.com:80/uu123456/uu123456/2761
+#EXTINF:0 tvg-id="DIGIAnimalWorld.ro" group-title="Channels",Ro: Digi Animal World
+http://xxultraxx.com:80/uu123456/uu123456/2767
+#EXTINF:0 tvg-id="Antena1.ro" group-title="Channels",Ro: Antena1
+http://xxultraxx.com:80/uu123456/uu123456/2740
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Antena Stars
+http://xxultraxx.com:80/uu123456/uu123456/2739
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Cinemax2
+http://xxultraxx.com:80/uu123456/uu123456/2738
+#EXTINF:0 tvg-id="DisneyJunior.ro" group-title="Channels",Ro: Disney Junior
+http://xxultraxx.com:80/uu123456/uu123456/2760
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Fishing&Hunting
+http://xxultraxx.com:80/uu123456/uu123456/2736
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Happy
+http://xxultraxx.com:80/uu123456/uu123456/2735
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Hbo 2
+http://xxultraxx.com:80/uu123456/uu123456/2734
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Hbo 3
+http://xxultraxx.com:80/uu123456/uu123456/2747
+#EXTINF:0 tvg-id="HBO.ro" group-title="Channels",Ro: HBO Romania
+http://xxultraxx.com:80/uu123456/uu123456/10408
+#EXTINF:0 tvg-id="KanalD.ro" group-title="Channels",Ro: Kanal D
+http://xxultraxx.com:80/uu123456/uu123456/2757
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Kiss
+http://xxultraxx.com:80/uu123456/uu123456/2733
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Look Plus
+http://xxultraxx.com:80/uu123456/uu123456/2732
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Megamax
+http://xxultraxx.com:80/uu123456/uu123456/2756
+#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",Ro: Minimax
+http://xxultraxx.com:80/uu123456/uu123456/2755
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: National
+http://xxultraxx.com:80/uu123456/uu123456/2731
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: ProTV
+http://xxultraxx.com:80/uu123456/uu123456/2729
+#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="Channels",Ro: Realitatea
+http://xxultraxx.com:80/uu123456/uu123456/2749
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Romania
+http://xxultraxx.com:80/uu123456/uu123456/2746
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Taraf
+http://xxultraxx.com:80/uu123456/uu123456/2728
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: TV1000
+http://xxultraxx.com:80/uu123456/uu123456/2744
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: 1 Music Channel
+http://xxultraxx.com:80/uu123456/uu123456/10422
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Acasa Gold
+http://xxultraxx.com:80/uu123456/uu123456/10404
+#EXTINF:0 tvg-id="Acasa.ro" group-title="Channels",Ro: Acasa TV
+http://xxultraxx.com:80/uu123456/uu123456/10417
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Agro Tv
+http://xxultraxx.com:80/uu123456/uu123456/10416
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Alfa & Omega
+http://xxultraxx.com:80/uu123456/uu123456/10403
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Animal Planet
+http://xxultraxx.com:80/uu123456/uu123456/10402
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Antena 3
+http://xxultraxx.com:80/uu123456/uu123456/10415
+#EXTINF:0 tvg-id="AXNSciFi.ro" group-title="Channels",Ro: AXN Black
+http://xxultraxx.com:80/uu123456/uu123456/10401
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: AXN Romania
+http://xxultraxx.com:80/uu123456/uu123456/10414
+#EXTINF:0 tvg-id="AXNCrime.ro" group-title="Channels",Ro: AXN White
+http://xxultraxx.com:80/uu123456/uu123456/10413
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Boomerang
+http://xxultraxx.com:80/uu123456/uu123456/10412
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Ciné Thronix
+http://xxultraxx.com:80/uu123456/uu123456/10397
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Cinemax Ro
+http://xxultraxx.com:80/uu123456/uu123456/10411
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Comedy Central
+http://xxultraxx.com:80/uu123456/uu123456/10396
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Etno Tv
+http://xxultraxx.com:80/uu123456/uu123456/10410
+#EXTINF:0 tvg-id="Favorit.ro" group-title="Channels",Ro: Favorit Tv
+http://xxultraxx.com:80/uu123456/uu123456/10409
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: HIT
+http://xxultraxx.com:80/uu123456/uu123456/10391
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: N24
+http://xxultraxx.com:80/uu123456/uu123456/10389
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: TLC
+http://xxultraxx.com:80/uu123456/uu123456/10387
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: TNT
+http://xxultraxx.com:80/uu123456/uu123456/10384
+#EXTINF:0 tvg-id="UTV.ro" group-title="Channels",Ro: U TV
+http://xxultraxx.com:80/uu123456/uu123456/10381
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Look Tv
+http://xxultraxx.com:80/uu123456/uu123456/10418
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Nickelodeon
+http://xxultraxx.com:80/uu123456/uu123456/10407
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Paprika
+http://xxultraxx.com:80/uu123456/uu123456/10388
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Paramount Channel
+http://xxultraxx.com:80/uu123456/uu123456/10406
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Prima Tv
+http://xxultraxx.com:80/uu123456/uu123456/10421
+#EXTINF:0 tvg-id="Sport.ro" group-title="Channels",Ro: Sport Ro
+http://xxultraxx.com:80/uu123456/uu123456/10420
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Trinitas
+http://xxultraxx.com:80/uu123456/uu123456/10383
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: TV5 MONDE
+http://xxultraxx.com:80/uu123456/uu123456/10382
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: TVH 20
+http://xxultraxx.com:80/uu123456/uu123456/10386
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Eurosport
+http://xxultraxx.com:80/uu123456/uu123456/2748
+#EXTINF:0 tvg-id="Eurosport2.ro" group-title="Channels",Ro: Eurosport 2
+http://xxultraxx.com:80/uu123456/uu123456/2759
+#EXTINF:0 tvg-id="ViasatHistory.ro" group-title="Channels",Ro: Viasat History
+http://xxultraxx.com:80/uu123456/uu123456/10380
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Viasat Nature
+http://xxultraxx.com:80/uu123456/uu123456/10379
+#EXTINF:0 tvg-id="HistoryHD.ro" group-title="Channels",Ro: History
+http://xxultraxx.com:80/uu123456/uu123456/2758
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: NatGeoWild
+http://xxultraxx.com:80/uu123456/uu123456/2754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Nat Geographic
+http://xxultraxx.com:80/uu123456/uu123456/2753
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: CI
+http://xxultraxx.com:80/uu123456/uu123456/10398
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: DTX
+http://xxultraxx.com:80/uu123456/uu123456/10392
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Discovery
+http://xxultraxx.com:80/uu123456/uu123456/10395
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Discovery IDX
+http://xxultraxx.com:80/uu123456/uu123456/10394
+#EXTINF:0 tvg-id="DiscoveryScience.ro" group-title="Channels",Ro: Discovery Science
+http://xxultraxx.com:80/uu123456/uu123456/10393
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: Music Channe hu
+http://xxultraxx.com:80/uu123456/uu123456/10419
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ro: ZU TV
+http://xxultraxx.com:80/uu123456/uu123456/10385
