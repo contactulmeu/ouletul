@@ -1,171 +1,229 @@
 #EXTM3U
-#EXTINF:0,1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0,6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Acasa TV
-http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:0,Accent TV
-http://video.a-tv.md/hls/accent.m3u8
-#EXTINF:0,Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:0,Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:0,Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:0,Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:0,Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF:0,Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF:0,Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0,B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0,Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0,BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Canal Regional
-http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:0,Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0,Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0,Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:0,Digi24
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,Digi24
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/.m3u8
-#EXTINF:0,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
-#EXTINF:0,Digi24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
-#EXTINF:0,Digi24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,Digi24
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:0,Digi24
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF:0,Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:0,Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:0,Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:0,Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:0,Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:0,Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0,Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:0,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Nasul TV
-https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
-#EXTINF:0,NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:0,Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:0,Pro TV
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:0,Pro TV News
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0,Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:0,Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF:0,Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0,Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:0,Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Speranta TV
-http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
-#EXTINF:0,Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Tele M
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0,Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:0,TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,TV8
-http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
-#EXTINF:0,TV8
-http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
-#EXTINF:0,TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0,TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:0,TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:0,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:0,TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0,TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:0,UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:0,UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
-#EXTINF:0,UTV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:0,UTV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:0,UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:-1,RO: TVR 1
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49839
+#EXTINF:-1,RO: TVR 2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49840
+#EXTINF:-1,RO: TVR 3
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49841
+#EXTINF:-1,RO: TVR HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49842
+#EXTINF:-1,RO: ROMANIA TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49843
+#EXTINF:-1,RO: ANTENA 1 HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49844
+#EXTINF:-1,RO: ANTENA 3
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49845
+#EXTINF:-1,RO: ANTENA STARS
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49846
+#EXTINF:-1,RO: PROTV HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49847
+#EXTINF:-1,RO: PRO TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49848
+#EXTINF:-1,RO: PRO 2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49849
+#EXTINF:-1,RO: PRO X
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49850
+#EXTINF:-1,RO: DIGI WORLD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49851
+#EXTINF:-1,RO: DIGI LIFE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49852
+#EXTINF:-1,RO: AXN WHITE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49853
+#EXTINF:-1,RO: AXN ROMANIA
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49854
+#EXTINF:-1,RO: AXN BLACK
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49855
+#EXTINF:-1,RO: B1 TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49856
+#EXTINF:-1,RO: DTX
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49857
+#EXTINF:-1,RO: FAVORIT TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49858
+#EXTINF:-1,RO: HAPPY CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49859
+#EXTINF:-1,RO: HBO Romania
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49860
+#EXTINF:-1,RO: HBO HD RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49861
+#EXTINF:-1,RO: HBO2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49862
+#EXTINF:-1,RO: HBO 3 RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49863
+#EXTINF:-1,RO: HBO 3
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49864
+#EXTINF:-1,RO: E! ENTERTAINMENT
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49865
+#EXTINF:-1,RO: HORA TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49866
+#EXTINF:-1,RO: JIMJAM
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49867
+#EXTINF:-1,RO: KANAL D
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49868
+#EXTINF:-1,RO: KISS TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49869
+#EXTINF:-1,RO: LOOK PLUS HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49870
+#EXTINF:-1,RO: LOOKPLUS
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49871
+#EXTINF:-1,RO: NATIONAL TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49872
+#EXTINF:-1,RO: PRIMA TV RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49873
+#EXTINF:-1,RO: REALITATEA TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49874
+#EXTINF:-1,RO: TARAF
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49875
+#EXTINF:-1,RO: TNT RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49876
+#EXTINF:-1,RO: NGRO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49877
+#EXTINF:-1,RO: N24
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49878
+#EXTINF:-1,RO: FINE LIVING
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49879
+#EXTINF:-1,RO: ETNO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49880
+#EXTINF:-1,RO: DUNA HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49881
+#EXTINF:-1,RO: DOCUBOX
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49882
+#EXTINF:-1,RO: DIVA
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49883
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49884
+#EXTINF:-1,RO: TRAVEL CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49885
+#EXTINF:-1,RO: TV PAPRIKA
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49886
+#EXTINF:-1,RO: ZU TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49887
+#EXTINF:-1,RO: U TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49888
+#EXTINF:-1,RO: TV NEPTUN
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49889
+#EXTINF:-1,RO: TV 1000
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49890
+#EXTINF:-1,RO: SPERANTA TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49891
+#EXTINF:-1,RO: RTL LOUNGE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49892
+#EXTINF:-1,RO: BOOMERANG
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49894
+#EXTINF:-1,RO: CARTOON
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49895
+#EXTINF:-1,RO: DISNEY ROM
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49897
+#EXTINF:-1,RO: DISNEY JR
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49898
+#EXTINF:-1,RO: DISNEY CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49899
+#EXTINF:-1,RO: MINIMAX
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49900
+#EXTINF:-1,RO: CINEMAX 2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49902
+#EXTINF:-1,RO: FILMBOX PREMIUM
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49904
+#EXTINF:-1,RO: FILMBOX EXTRA HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49905
+#EXTINF:-1,RO: FILM NOW
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49907
+#EXTINF:-1,RO: FILM CAFE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49908
+#EXTINF:-1,RO: PRO GOLD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49909
+#EXTINF:-1,RO: MEGAMAX
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49911
+#EXTINF:-1,RO: CINEMARATON
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49912
+#EXTINF:-1,RO: CBS REALITY
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49913
+#EXTINF:-1,RO: BOLLYWOOD TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49914
+#EXTINF:-1,RO: ANTENA 1
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49915
+#EXTINF:-1,RO: AMC RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49916
+#EXTINF:-1,RO: AGRO TV
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49917
+#EXTINF:-1,RO: NATIONAL GEOGRAPHIC RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49919
+#EXTINF:-1,RO: NAT GEO WILD HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49920
+#EXTINF:-1,RO: NGC HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49921
+#EXTINF:-1,RO: INVESTIGATION DISCOVERY
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49922
+#EXTINF:-1,RO: DISCOVERY SCIENCE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49923
+#EXTINF:-1,RO: DISCOVERY RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49924
+#EXTINF:-1,RO: DISCOVERY HD SHOWCASE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49925
+#EXTINF:-1,RO: DISCOVERY CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49926
+#EXTINF:-1,RO: ANIMAL PLANET HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49927
+#EXTINF:-1,RO: ANIMAL PLANET
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49928
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49929
+#EXTINF:-1,RO: VIASAT NATURE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49930
+#EXTINF:-1,RO: VIASAT HISTORY
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49931
+#EXTINF:-1,RO: VIASAT EXPLORER
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49932
+#EXTINF:-1,RO: VIASAT EXPLORE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49933
+#EXTINF:-1,RO: HISTORY
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49934
+#EXTINF:-1,RO: HISTORY HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49935
+#EXTINF:-1,RO: MUSIC CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49937
+#EXTINF:-1,RO: MTV ROCKS
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49938
+#EXTINF:-1,RO: MTV HITS
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49939
+#EXTINF:-1,RO: MTV EUROPE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49940
+#EXTINF:-1,RO: MTV DANCE
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49941
+#EXTINF:-1,RO: MOOZ DANCE HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49942
+#EXTINF:-1,RO: VH1 CLASSIC
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49943
+#EXTINF:-1,RO: DIGI SPORT 1 HD RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49945
+#EXTINF:-1,RO: DIGI SPORT 1
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49946
+#EXTINF:-1,RO: DIGI SPORT 2 HD RO
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49947
+#EXTINF:-1,RO: DIGI SPORT 2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49948
+#EXTINF:-1,RO: DIGI SPORT 3
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49949
+#EXTINF:-1,RO: DIGI SPORT 4
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49950
+#EXTINF:-1,RO: EXTREME SPORTS CHANNEL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49951
+#EXTINF:-1,RO: EUROSPORT 1 HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49952
+#EXTINF:-1,RO: EUROSPORT 2 HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49953
+#EXTINF:-1,RO: EUROSPORT 2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49954
+#EXTINF:-1,RO: ELEVENSPORTS1
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49955
+#EXTINF:-1,RO: ELEVENSPORTS2
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49956
+#EXTINF:-1,RO: PRO TV INTERNATIONAL
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49957
+#EXTINF:-1,RO: AUTO MOTOR SPORT
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49958
+#EXTINF:-1,RO: FIGHTBOX
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49959
+#EXTINF:-1,RO: LOOKSPORT
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49960
+#EXTINF:-1,RO: LOOK SPORT HD
+http://www.sansat.net:25461/lakanzeqiri/L5Z8V1S3st/49961
